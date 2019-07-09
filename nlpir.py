@@ -1,0 +1,5 @@
+import  pynlpir
+
+pynlpir.open()
+
+
